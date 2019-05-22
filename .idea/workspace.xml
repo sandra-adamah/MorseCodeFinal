@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b05ea922-6e42-4db4-8385-1faf50d7b9df" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LickingHeights/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LickingHeights/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,13 +17,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="527">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,14 +38,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/LickingHeights/Scanner.java" />
         <option value="$PROJECT_DIR$/src/com/LickingHeights/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="412" />
-    <option name="width" value="899" />
+    <option name="x" value="60" />
+    <option name="y" value="136" />
+    <option name="width" value="847" />
     <option name="height" value="902" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,12 +54,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.LickingHeights" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,7 +96,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="412" width="899" height="902" extended-state="0" />
+    <frame x="60" y="136" width="847" height="902" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -144,10 +151,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="527">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
         </state>
       </provider>
     </entry>
