@@ -1,5 +1,7 @@
 package com.LickingHeights;
 
+import java.util.Scanner;
+
 public class MorseCode {
     public static final String[] morseCode =
             {"*-", "-***", "-*-*", "-**", "*", "**-*", "--*",
@@ -28,21 +30,29 @@ public class MorseCode {
         while(input){
                 System.out.print("This is a morse code and english translator, type \"morse\" to do morse code" +
                         "to English or type \"English\" to do English to morse code");
-                codeTranslation= (keyboard.nextln());
+                codeTranslation= (keyboard.next());
     }
     keyboard.close();
         System.out.println("Thank you for using the morse code and English translator");
         System.exit(0);
 
-public static String morseToAlphabet (String[]codeTranslation){
+public static String morseToAlphabet(String[]codeTranslation){
 
-        if (codeTranslation = \"morse")
+            if (codeTranslation = \"morse")
+        }
 
-
-
-
+public static String alphabetToMorse(String[]codeTranslation){
 }
+public static String addColon(String[]codeTranslation){
 
+        }
+ public static String replaceSpaceInMorse(String[]codeTranslation){
+        }
+public static String CreateMessageArray(String[]codeTranslation){
+        }
+public static void playAgain(){
+        }
+public static String alphabetToMorse(String[]codeTranslation){
 
 
 
