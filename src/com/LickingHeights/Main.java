@@ -43,20 +43,21 @@ public static String morseToAlphabet(String[]codeTranslation){
 
 public static String alphabetToMorse(String[]codeTranslation){
 }
-public static String addColon(String[]codeTranslation){
 
+public static String addColon(String codeTranslation){
+    String fake;
+    for(int i = 0;i<codeTranslation.length();i++){
+      fake += codeTranslation.charAt(i)+":";
+      return fake; }
+
+
+ public static String replaceSpaceInMorse(String codeTranslation){
         }
- public static String replaceSpaceInMorse(String[]codeTranslation){
-        }
-public static String CreateMessageArray(String[]codeTranslation){
+public static String CreateMessageArray(String codeTranslation){
         }
 public static void playAgain(){
         }
-public static String alphabetToMorse(String[]codeTranslation){
+public static String printInitial (String word){
 
+        }
 
-
-
-
-
-}
